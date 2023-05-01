@@ -1,1 +1,1 @@
-### cdn berisi gambar untuk Blog
+### CDN (Content Delivery Network) berisi gambar untuk Blog.
